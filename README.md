@@ -62,7 +62,21 @@ Latihan 7
 ![alt text](https://github.com/akuian/Jobsheet5/blob/master/6.5.JPG)
 
 Tugas Praktikum
-1.
-2.
+1.try catch finally tersebut fungsinya hampir sama dengan keyword default pada switch-case.
+
+  sedangkan throw throws pada waktu mendeklarasikan suatu method untuk memberitahu bahwa method yang bersangkutan dapat melempar eksepsi dengan tipe yang dideklarasikan oleh keyword throws tersebut.
+
+2.ClassNotFoundException : jika kelas belum dibuat
+  CloneNotSupportedException : jika ada penggandaa kelas yang tidak disupport method clone
+  RuntimeException: jika program tidak sempurna
+  NullPointerException:Ada objek atau atribut yang bernilai null
+  ArrayIndexOutOfBoundsException: akses array melebihi kapasitas
+  ArithmeticException:Jika pembagian suatu bilangan dengan 0
+  InputMismatchException: jika terjadi kesalahan inputan string dengan int
+  NumberFormatException : mengubah string menjadi angka tapi tidak benar
+  IOIexception : kesalahan menemukan dan membuka file seperti InterrputedIOException
+  
+  
+
 3.![alt text](https://github.com/akuian/Jobsheet5/blob/master/prak1.JPG)
   ![alt text](https://github.com/akuian/Jobsheet5/blob/master/prak2.JPG)
